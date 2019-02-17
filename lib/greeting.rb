@@ -4,6 +4,6 @@ def greeting (name)
   name=name.strip
 end
 
-greeting ("Sally")
+greeting ("Sally").strip
 
 
